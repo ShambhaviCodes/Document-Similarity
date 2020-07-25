@@ -1,4 +1,4 @@
-# Assignment_ResearchWire
+# Document Similarity
 This repository contains final submission of assignment on document similarity.
 
 ## An Overview of the Dataset
@@ -29,7 +29,6 @@ For example for P161 query, both the above methods give a high matching score.
  1. Semantic_Similarity.ipynb - Ipython Notebook trained on Google Colab,
     To reproduce the results, select ‘Runtime’ and ‘Run all’ the cells. You will need the ‘cc.en.300.bin’ file. Please download it using a bash terminal (run
     ./download_model.py en),upload on Google Drive and set the paths to the file accordingly. 
-    To open in colab - (https://colab.research.google.com/drive/1vXb8sH_rMJOfLzZb2Din2FXYIGkINg_Z?usp=sharing)
  2. Semantic_Similarity.csv - (.CSV) file with results in a separate column.
  3. Lexical_Similarity.ipynb - Python Notebook trained on Jupyter Notebook 
             Open using Jupyter Notebook and ‘Kernel - Restart and Run All’
